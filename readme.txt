@@ -6,4 +6,6 @@ test git log
 
 test stage
 
+test add to github
+
 
